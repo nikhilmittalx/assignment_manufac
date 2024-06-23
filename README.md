@@ -31,9 +31,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Screenshots:
 
 ### Maximum and Minimum production of the crops
-![solution-screenshot-maxmin-prod](./public/images/maxmin1.png)
+![solution-screenshot-maxmin-prod](./public/images/1maxmin1.png)
 
-![solution-screenshot-maxmin-prod](./public/images/maxmin2.png)
+![solution-screenshot-maxmin-prod](./public/images/1maxmin2.png)
 
 ### Average yield and cultivation of each crops
-![solution-screenshot-avg-yield-and-cultivation](./public/images/avgYield.png)
+![solution-screenshot-avg-yield-and-cultivation](./public/images/avgYield1.png)
